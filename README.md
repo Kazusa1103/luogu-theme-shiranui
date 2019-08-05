@@ -52,4 +52,4 @@
   
 ## 预览
 
-![](https://cdn.luogu.org/upload/pic/69430.png)
+![](https://i.loli.net/2019/08/05/YeUXqAjKHbyGuWt.png)
