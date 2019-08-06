@@ -53,3 +53,5 @@
 ## 预览
 
 ![](https://i.loli.net/2019/08/05/YeUXqAjKHbyGuWt.png)
+
+[=>use it now!](https://www.luogu.org/theme/design/6004)
